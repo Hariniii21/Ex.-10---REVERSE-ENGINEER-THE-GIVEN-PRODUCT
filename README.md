@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![exp4i](https://github.com/Hariniii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140423/1a30da51-1298-4188-8d1f-4541aaaefc95)
 
 ### Output:
+![exp4](https://github.com/Hariniii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140423/3cb0a378-b263-4025-a61a-da3c2f5f37e7)
 
 
-### Name:
-### Register Number:
+### Name:Harini.S
+### Register Number:212223240048
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
